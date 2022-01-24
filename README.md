@@ -1,4 +1,5 @@
-### Hi there 👋
+![Danish Here](https://raw.githubusercontent.com/danishfareed/danishfareed/main/header.png)
+
 
 <!--
 **danishfareed/danishfareed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
